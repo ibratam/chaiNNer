@@ -3,7 +3,7 @@ version: "3.7"
 services:
   react-proj:
     # service 1 container name
-    container_name: react-proj
+    container_name: tesrt
     build:
      
       context: .
